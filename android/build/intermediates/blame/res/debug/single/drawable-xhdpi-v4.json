@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ismarel/AndroidStudioProjects/Mi-juego/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/ismarel/AndroidStudioProjects/Mi-juego/android/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/usuario/AndroidStudioProjects/Mi-juego/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/usuario/AndroidStudioProjects/Mi-juego/android/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/usuario/AndroidStudioProjects/mijuego/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/usuario/AndroidStudioProjects/mijuego/android/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

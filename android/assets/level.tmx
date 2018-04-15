@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="120" height="20" tilewidth="16" tileheight="16" nextobjectid="25">
+ <tileset firstgid="1" name="gunnes" tilewidth="16" tileheight="16" tilecount="4000" columns="80">
+  <image source="gunnes.png" width="1280" height="800"/>
+ </tileset>
+ <tileset firstgid="4001" name="ts" tilewidth="16" tileheight="16" tilecount="870" columns="29">
+  <image source="ts.png" width="472" height="480"/>
+ </tileset>
+ <tileset firstgid="4871" name="sheet" tilewidth="16" tileheight="16" tilecount="136" columns="17">
+  <image source="sheet.png" width="272" height="128"/>
+ </tileset>
+ <layer name="back-back" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztlkdOA0EQRXthWyLsvCNI5A1BJLPBNicgnIBwAsIJHIAN4Wxgwpq8IZyBd4GWuqe/NAOqJ71Vl0qlKunPOGcYhmEYhmEYhmEYhvG3+Cw594Xf+FPKexpDzXrZuTo2sIl9Vef6cQAHq3lPZ6RywU0v8QqvcYibDuMIjtp9/x2z3HQO53GhYPeNzZaiZ5FyvtBedd4a2MSNgu0kNluKnkXK+UJ7bfK2hdu4I9jJE/9sz/iCr/iG7/iR4V8uNlt89cqZUlBmZWivXd72cB8PBPdd5Ju+hMu4gqtYw7VyfK/YbPHVK2dKQZmVob0OeTvCYzwR3LfFztrYwS6e4hmeZ9hlbLb46pUzpaDMytBeLd7a2MGu4L437OwWe3iH9/iAjxl2GZstvnrlTCkos1Kdu6GMVZwbxwmcxCmcxplKfK/YbPHVK2dKQZmV6tzNg9hsUWeRGuV8ob1+AYBrY98=
+  </data>
+ </layer>
+ <layer name="back" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztlj1PwlAYRl++R0eJ6MjMh/4f3EkEJ4VFQf6P7Ay6SVCDCjuK/BCOg0MJDSa9l7TmOclZmvbepCf3bc2EEEIIIYQQQgghhBBCCCGSwSJt9olfuMRvXKX97PWUMRtn/KwdBy5SZi1s42Uq2lquulR431WsYR1P8cxTg8OsWTHrZ+19MMFnfMHXkHse6PoYse0Prrrc8Mwt9rCPdzj4x2csCkd0K+ExnoQ0PHA0+1x1mfLMG77jB85wHpO+yzxzKR+8ts8Zv23/5o6z2aDvuYPGce7iinqBuVQIXvud8Vc5s2tHdrCb+9v+ox1972k79PT/skk5wd86IZLEGn5EOhs=
+  </data>
+ </layer>
+ <layer name="ground" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1mdOAkEchvFRdpZYLmDDfhjLBQSDgGJi74eyxI5XQLyRJepjlv3myoxZJZD3SX5fyCS7mf8MWWOUUkoppZRSSimllFJKKZVGJ0G730Al1Rca048BDIbtfhuVdkvMNI8CljXfruuUmZ7hHBct5qu73nk9M6cXvOKtxcx01/+vIb5phjGCUYwhh3FMYBJTmMYMZhO+geayxsxjAYvZn5/pc9c7raI1ZgUllFHBKtZQxbqN1rnuucuaeDbftcHvm9jCNnawiz3s4wCHOMJxkPyN6zMz17vuc/bq7NtjShp4su5nPu7SRq5wjRvc4g73qOGhOV/XPXdZE8/mL/P5f3a962mdvd/k89y4dxv5+Johe9CDXmQQwCJs7s0nv7FbTA==
+  </data>
+ </layer>
+ <layer name="fronback" width="120" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzrsJACAMBcCU7mTcfy0tLGwUGxu5gwchH0gEAAAAAAAAAADwSpaINlLL//Wpl7O/u33xxzrb5WbndNcBRS4f1Q==
+  </data>
+ </layer>
+ <objectgroup name="objground">
+  <object id="6" x="-0.181818" y="288.545" width="336.182" height="14.9091"/>
+  <object id="9" x="432.364" y="272.182" width="175.455" height="31.4545"/>
+  <object id="11" x="704.182" y="208.182" width="63.8182" height="112.364"/>
+  <object id="12" x="880.364" y="240.182" width="63.8182" height="79.8182"/>
+  <object id="13" x="1056.18" y="288.182" width="175.818" height="31.8182"/>
+  <object id="14" x="1232.36" y="288.364" width="303.136" height="6.72727"/>
+  <object id="15" x="1536" y="288.125" width="176.125" height="31.625"/>
+  <object id="17" x="1776" y="288.091" width="127.909" height="34.6364"/>
+  <object id="18" x="1776" y="272.091" width="32.0909" height="16"/>
+  <object id="20" x="1870.36" y="271.909" width="33.5455" height="16"/>
+  <object id="23" x="1839.91" y="287.909">
+   <polygon points="0,0 30.3636,0.181818 30.4545,-16"/>
+  </object>
+  <object id="24" x="1808.09" y="272.182">
+   <polygon points="0,0 0,15.5455 16.1818,15.8182"/>
+  </object>
+ </objectgroup>
+</map>

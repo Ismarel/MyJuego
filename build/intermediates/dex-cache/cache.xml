@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ismarel/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/home/ismarel/AndroidStudioProjects/Mi-juego/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.6_5ff6d3af078bdc725ca0ff7d1a46210e5ca61ebf.jar" />
+    </item>
+    <item
+        jar="/home/ismarel/AndroidStudioProjects/Mi-juego/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="aeff5d76ddcf0c1e83aa68aee08e9c653fd0b9c0">
+        <dex dex="/home/ismarel/AndroidStudioProjects/Mi-juego/android/build/intermediates/pre-dexed/debug/core-1.0_c302a26b57cf64d15a72d99147cb8646519380ad.jar" />
+    </item>
+    <item
+        jar="/home/ismarel/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-ai/1.8.0/ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5/gdx-ai-1.8.0.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5">
+        <dex dex="/home/ismarel/AndroidStudioProjects/Mi-juego/android/build/intermediates/pre-dexed/debug/gdx-ai-1.8.0_85cc708495fd60cd7785028c74fc89cf71f38416.jar" />
+    </item>
+    <item
+        jar="/home/ismarel/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/home/ismarel/AndroidStudioProjects/Mi-juego/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.6_4192614f13143ecc14cff1e4b9588090d5faf3fc.jar" />
+    </item>
+    <item
+        jar="/home/ismarel/.gradle/caches/modules-2/files-2.1/com.badlogicgames.box2dlights/box2dlights/1.4/3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd/box2dlights-1.4.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="/home/ismarel/AndroidStudioProjects/Mi-juego/android/build/intermediates/pre-dexed/debug/box2dlights-1.4_05b40abc23fc3ed01b1a11d2a614d82a3fb8eda8.jar" />
+    </item>
+    <item
+        jar="/home/ismarel/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.6.2/62705f896186f9294e37daa0ade876e8692310cf/gdx-freetype-1.6.2.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="62705f896186f9294e37daa0ade876e8692310cf">
+        <dex dex="/home/ismarel/AndroidStudioProjects/Mi-juego/android/build/intermediates/pre-dexed/debug/gdx-freetype-1.6.2_77276c911ea1c0360c72c309855590e69e86fcec.jar" />
+    </item>
+    <item
+        jar="/home/ismarel/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/home/ismarel/AndroidStudioProjects/Mi-juego/android/build/intermediates/pre-dexed/debug/gdx-1.9.6_3658867b37e6152abad65c446b699a53dc7ee09e.jar" />
+    </item>
+    <item
+        jar="/home/ismarel/.gradle/caches/modules-2/files-2.1/net.dermetfan.libgdx-utils/libgdx-utils/0.13.4/27affad2873d1c9c366a2290fc51f3927f3a5f83/libgdx-utils-0.13.4.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="27affad2873d1c9c366a2290fc51f3927f3a5f83">
+        <dex dex="/home/ismarel/AndroidStudioProjects/Mi-juego/android/build/intermediates/pre-dexed/debug/libgdx-utils-0.13.4_6849d9d00e87ffe88988f520c3e445300bbd6ba8.jar" />
+    </item>
+    <item
+        jar="/home/ismarel/.gradle/caches/modules-2/files-2.1/net.dermetfan.libgdx-utils/libgdx-utils-box2d/0.13.4/918d79a20ea3c898cdb3611782c5b2bfa6ec575b/libgdx-utils-box2d-0.13.4.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="918d79a20ea3c898cdb3611782c5b2bfa6ec575b">
+        <dex dex="/home/ismarel/AndroidStudioProjects/Mi-juego/android/build/intermediates/pre-dexed/debug/libgdx-utils-box2d-0.13.4_301ae3dcf4ac65a4767c43d1b354b0f978bf96d7.jar" />
+    </item>
+    <item
+        jar="/home/ismarel/.gradle/caches/modules-2/files-2.1/com.kotcrab.vis/vis-ui/1.3.0/639741faa66a560197ee06a9412949402c831796/vis-ui-1.3.0.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="639741faa66a560197ee06a9412949402c831796">
+        <dex dex="/home/ismarel/AndroidStudioProjects/Mi-juego/android/build/intermediates/pre-dexed/debug/vis-ui-1.3.0_dc191761456b7ad7c3fecbc0b4f644b54b3e206c.jar" />
+    </item>
+    <item
+        jar="/home/ismarel/.gradle/caches/modules-2/files-2.1/com.underwaterapps.overlap2druntime/overlap2d-runtime-libgdx/0.1.0/1dd0d0808d1e44fe10c749d8216c44e5c4c99361/overlap2d-runtime-libgdx-0.1.0.jar"
+        jumboMode="false"
+        revision="25.0.3"
+        sha1="1dd0d0808d1e44fe10c749d8216c44e5c4c99361">
+        <dex dex="/home/ismarel/AndroidStudioProjects/Mi-juego/android/build/intermediates/pre-dexed/debug/overlap2d-runtime-libgdx-0.1.0_f241a11039f883d33b8a0936fdde50fc1cbcb49c.jar" />
+    </item>
+
+</items>
