@@ -42,5 +42,9 @@
     <orderEntry type="library" exported="" name="overlap2d-runtime-libgdx-0.1.0" level="project" />
     <orderEntry type="library" exported="" name="robovm-objc-2.3.0" level="project" />
     <orderEntry type="library" exported="" name="gdx-freetype-1.6.2" level="project" />
+    <orderEntry type="library" exported="" name="ios.ios-1.0" level="project" />
+    <orderEntry type="library" exported="" name="ios.ios-1.0" level="project" />
+    <orderEntry type="library" exported="" name="ios.ios-1.0" level="project" />
+    <orderEntry type="library" exported="" name="ios.ios-1.0" level="project" />
   </component>
 </module>
